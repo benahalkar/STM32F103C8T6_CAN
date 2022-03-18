@@ -3,6 +3,7 @@
 An ARM based ADC -> CAN converter \
 \
 SPECIFICATIONS \
+============== \
     Controller used in project : STM32F103C8T6 \
     Number of ADC Input Channels : 8 \
     CAN protocol implemented : CANopen \
@@ -11,5 +12,6 @@ SPECIFICATIONS \
     Operating Voltage of controller : +5VDC \
 \
 FILES ENCLOSED \
+============== \
     PDF of Schematic with connections to CAN-Transceiver. \
     Code files. \
