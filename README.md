@@ -7,7 +7,7 @@ SPECIFICATIONS: \
  Number of ADC Input Channels - 8 \
  CAN protocol - CANopen \
  CAN bit-rates - 125000, 250000, 5000000 \
- Data resolution - 13mV (approx) \
+ Data resolution - 13mV/bit (approx) \
  Operating Voltage of controller - +5VDC \
 \
 FILES ENCLOSED: \
